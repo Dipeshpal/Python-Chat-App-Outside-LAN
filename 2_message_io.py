@@ -1,11 +1,11 @@
 import json
 import os
-
 import requests
 from lazyme.string import color_print as cprint
 import time
+from constants import server_host
 
-host = "http://127.0.0.1:8000"
+host = server_host
 
 
 def check_for_new_message(user_id, client_id):
