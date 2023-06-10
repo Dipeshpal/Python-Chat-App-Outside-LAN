@@ -3,8 +3,8 @@ from lazyme.string import color_print as cprint
 import time
 import json
 import os
-from constants import server_host
 
+server_host = "http://165.232.189.243:8085"
 host = server_host
 
 

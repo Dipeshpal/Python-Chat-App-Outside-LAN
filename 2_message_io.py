@@ -3,8 +3,8 @@ import os
 import requests
 from lazyme.string import color_print as cprint
 import time
-from constants import server_host
 
+server_host = "http://165.232.189.243:8085"
 host = server_host
 
 
@@ -37,6 +37,8 @@ def start_msg_server():
     else:
         cprint("Please create or login user first.", color='red')
         cprint("Use 'python 1_chat_io.py' to create or login user.", color='yellow')
+        print("Exiting...")
+        time.sleep(10)
 
 
 if __name__ == '__main__':
