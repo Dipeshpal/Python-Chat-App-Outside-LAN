@@ -7,21 +7,21 @@ This project is for chat outside of LAN using python.
 
 **1. For linux / mac / other-**
 		
-		Clone or download this project.
-		
-		 Note: Python must be installed
-		
-		1. Run `python 1_chat_io.py`
-		
-		2. Run `python 2_message_io.py`
+Clone or download this project.
+
+Note: Python must be installed
+
+1. Run `python 1_chat_io.py`
+
+2. Run `python 2_message_io.py`
 
 **2. For windows-**
 	  
-	  Download Exe or Install Python first then follow step 1.
-	
-	1. [Download](https://github.com/Dipeshpal/Python-Chat-App-Outside-LAN/releases/tag/v1.0.0) 1_chat_io.exe for sending message and run it
-	
-	2. [Download](https://github.com/Dipeshpal/Python-Chat-App-Outside-LAN/releases/tag/v1.0.0) 2_message_io.exe for receiving messgage and run it
+Download Exe or Install Python first then follow step 1.
+
+1. [Download](https://github.com/Dipeshpal/Python-Chat-App-Outside-LAN/releases/tag/v1.0.0) 1_chat_io.exe for sending message and run it
+
+2. [Download](https://github.com/Dipeshpal/Python-Chat-App-Outside-LAN/releases/tag/v1.0.0) 2_message_io.exe for receiving messgage and run it
 
 # How this works-
 
